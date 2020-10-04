@@ -1,0 +1,6 @@
+字符串转换为数字异常：NumberFormatException
+当试图将一个String转换为指定的数字类型，而该字符串确不满足数字类型要求的格式时，抛出该异常.如现在讲字符型的数据“123456”转换为数值型数据时，是允许的。
+
+NegativeArraySizeException - 创建一个大小为负数的数组错误异常
+
+IllegalArgumentException 抛出的异常表明向方法传递了一个不合法或不正确的参数
